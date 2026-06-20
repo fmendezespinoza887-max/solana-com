@@ -3,7 +3,7 @@ packages:
   - packages/*
 
 catalog:
-  next: ^15.5.9
-  next-intl: ^3.26.4
+  next: ^15.5.18
+  next-intl: ^4.9.2
   react: ^19.1.2
   react-dom: ^19.1.2
